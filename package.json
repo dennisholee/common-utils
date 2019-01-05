@@ -1,0 +1,20 @@
+{
+  "name": "common-utils",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "genEncKey": "node -e 'require(\"./index\").generateEncryptionKey()'",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dennisholee/common-utils.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dennisholee/common-utils/issues"
+  },
+  "homepage": "https://github.com/dennisholee/common-utils#readme"
+}
